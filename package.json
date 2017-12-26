@@ -1,6 +1,6 @@
 {
-  "name": "passport-molch-oauth20",
-  "version": "1.0.0",
+  "name": "passport-molch-oauth2",
+  "version": "1.0.1",
   "description": "Molch (OAuth 2.0) authentication strategy for Passport.",
   "keywords": [
     "passport",
